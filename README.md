@@ -95,5 +95,5 @@ finlens-catalyst-mapper/
 
 - `plugin.json` is intentionally minimal for the public first release.
 - Author names, repository URL, homepage, website, license, privacy URL, and terms URL are already set for the public first release.
-- No `TODO` placeholders remain in the public release files.
+- No placeholder markers remain in the public release files.
 - A public contact email is intentionally omitted for now instead of being guessed or faked.
