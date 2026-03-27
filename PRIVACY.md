@@ -21,4 +21,4 @@ If a user configures optional external providers, those providers may have their
 
 ## Contact
 
-The author names and repository links are already set in `plugin.json`. Update the public contact email there when you decide which mailbox to expose for privacy or support questions.
+The author names and repository links are already set in `plugin.json`. A public contact email is intentionally not listed until a dedicated mailbox is chosen for privacy or support questions.
