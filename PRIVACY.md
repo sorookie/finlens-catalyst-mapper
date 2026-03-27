@@ -21,4 +21,4 @@ If a user configures optional external providers, those providers may have their
 
 ## Contact
 
-Replace the author and repository placeholders in `plugin.json` before public release so users know where to find the final privacy contact.
+The author names and repository links are already set in `plugin.json`. Update the public contact email there when you decide which mailbox to expose for privacy or support questions.

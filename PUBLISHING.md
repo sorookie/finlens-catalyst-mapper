@@ -4,10 +4,7 @@ Use this checklist before publishing the repository publicly.
 
 ## Required before public release
 
-- Choose the final repository host and create the public repo.
-- Decide the license and replace the `license` placeholder in `.codex-plugin/plugin.json`.
-- Replace the author placeholders in `.codex-plugin/plugin.json`.
-- Replace the repository, homepage, website, privacy, and terms URLs in `.codex-plugin/plugin.json`.
+- Choose the final public contact email and replace the email placeholder in `.codex-plugin/plugin.json`.
 - Review `README.md`, `PRIVACY.md`, and `TERMS.md` for final wording.
 - Confirm no local absolute paths, private endpoints, tokens, or personal provider names remain anywhere in the repo.
 

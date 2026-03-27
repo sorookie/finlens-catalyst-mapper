@@ -94,5 +94,5 @@ finlens-catalyst-mapper/
 ## Release status
 
 - `plugin.json` is intentionally minimal for the public first release.
-- Author, repository, homepage, website, license, privacy URL, and terms URL still need final publishing values.
-- Legal and public-web fields stay explicit `TODO` values until you choose the final repo host and license.
+- Author names, repository URL, homepage, website, license, privacy URL, and terms URL are already set for the public first release.
+- The only remaining placeholder in `plugin.json` is the public contact email, which can be filled later when you decide which contact address to expose.
