@@ -1,0 +1,32 @@
+{
+  "name": "finlens-catalyst-mapper",
+  "version": "0.1.0",
+  "description": "Public catalyst-to-target mapping skills for China and global markets.",
+  "author": {
+    "name": "Shiyun Xin, Jiayi Wang, Kai Yi",
+    "email": "[TODO: public contact email]",
+    "url": "https://github.com/sorookie"
+  },
+  "homepage": "https://github.com/sorookie/finlens-catalyst-mapper",
+  "repository": "https://github.com/sorookie/finlens-catalyst-mapper",
+  "license": "MIT",
+  "keywords": ["finance", "macro", "event-driven", "industry-research", "supply-chain"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "FinLens Catalyst Mapper",
+    "shortDescription": "Catalyst-to-target mapping for China and global markets.",
+    "longDescription": "A public-safe research plugin that turns events, industry shifts, supply chain disruptions, resource moves, and macro shocks into disciplined target maps across equities, ETFs, commodities, rates, and FX.",
+    "developerName": "Shiyun Xin, Jiayi Wang, Kai Yi",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Read"],
+    "websiteURL": "https://github.com/sorookie/finlens-catalyst-mapper",
+    "privacyPolicyURL": "https://github.com/sorookie/finlens-catalyst-mapper/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/sorookie/finlens-catalyst-mapper/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "用中文分析一个催化事件会如何传导到 A 股和港股。",
+      "Map a global macro shock into U.S. equity and ETF targets.",
+      "Compare beneficiaries, losers, and invalidation signals for this thesis."
+    ],
+    "brandColor": "#0F766E"
+  }
+}
