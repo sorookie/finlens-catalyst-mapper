@@ -134,7 +134,7 @@ This is a public shareable Skill. It should not assume that any user has a speci
 
 Optional providers should be treated by function:
 
-1. live market data
+1. live market data: Yahoo Finance, Google Finance, MarketWatch, Seeking Alpha, Bloomberg, CNBC
 2. fundamentals and valuation
 3. screening and universe building
 4. industry and supply chain data
